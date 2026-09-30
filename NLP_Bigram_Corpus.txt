@@ -1,0 +1,25 @@
+I love natural language processing.
+I love machine learning.
+Natural language processing is interesting.
+Machine learning is interesting.
+Natural language processing is useful.
+Machine learning is useful.
+Students learn natural language processing.
+Students learn machine learning.
+Students study natural language processing.
+Students study machine learning.
+Natural language processing helps students.
+Machine learning helps students.
+I study natural language processing.
+I study machine learning.
+I enjoy learning natural language processing.
+I enjoy learning machine learning.
+Learning natural language processing is interesting.
+Learning machine learning is interesting.
+Natural language processing is a useful field.
+Machine learning is a useful field.
+Students find natural language processing interesting.
+Students find machine learning interesting.
+I find natural language processing useful.
+I find machine learning useful.
+Students love learning natural language processing.
