@@ -23,3 +23,18 @@ Students find machine learning interesting.
 I find natural language processing useful.
 I find machine learning useful.
 Students love learning natural language processing.
+Natural language processing helps computers understand language.
+Machine learning helps computers learn from data.
+Students practice natural language processing.
+Students practice machine learning.
+I learn natural language processing every day.
+I learn machine learning every day.
+Natural language processing uses language data.
+Machine learning uses training data.
+Students find natural language processing useful.
+Students find machine learning useful.
+Learning natural language processing improves understanding.
+Learning machine learning improves prediction.
+Natural language processing is important for students.
+Machine learning is important for students.
+Students enjoy learning natural language processing.
